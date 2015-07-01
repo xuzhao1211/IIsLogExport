@@ -1,0 +1,10 @@
+E:\创业项目\英文版BTOB\LogExport\LogExport\bin\Debug\LogExport.exe
+E:\创业项目\英文版BTOB\LogExport\LogExport\bin\Debug\LogExport.pdb
+E:\创业项目\英文版BTOB\LogExport\LogExport\obj\Debug\ResolveAssemblyReference.cache
+E:\创业项目\英文版BTOB\LogExport\LogExport\obj\Debug\LogExport.MainForm.resources
+E:\创业项目\英文版BTOB\LogExport\LogExport\obj\Debug\LogExport.Properties.Resources.resources
+E:\创业项目\英文版BTOB\LogExport\LogExport\obj\Debug\LogExport.csproj.GenerateResource.Cache
+E:\创业项目\英文版BTOB\LogExport\LogExport\obj\Debug\LogExport.exe
+E:\创业项目\英文版BTOB\LogExport\LogExport\obj\Debug\LogExport.pdb
+E:\创业项目\英文版BTOB\LogExport\LogExport\obj\Debug\LogExport.DbSettings.resources
+E:\创业项目\英文版BTOB\LogExport\LogExport\bin\Debug\MySql.Data.dll
